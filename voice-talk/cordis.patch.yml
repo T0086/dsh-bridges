@@ -1,0 +1,4 @@
+# 把 voice-talk 插入 profile 的条目列表。
+- insert:
+    - id: voice-talk
+      name: 'voice-talk'

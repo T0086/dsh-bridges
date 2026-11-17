@@ -1,5 +1,7 @@
 # dsh-bridges
 
+> 作者：空游
+
 把外部世界接进同一个会话的 DSH 插件（Discord / QQ / 语音）
 
 ## 包含
